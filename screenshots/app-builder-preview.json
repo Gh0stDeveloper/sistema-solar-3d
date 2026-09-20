@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Eclíptica",
+      "hasCanvas": false,
+      "bodyTextLen": 570,
+      "bodyTextHash": "1d8886534ecbc90095b6d6dd423ed535b9be15fa0b10b93a3d487b5c8048e46b",
+      "bodyTextPrefix": "SOL MERCURIO VENUS TIERRA MARTE JÚPITER SATURNO URANO NEPTUNO Ec",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Eclíptica",
+      "hasCanvas": false,
+      "bodyTextLen": 259,
+      "bodyTextHash": "fbbe22e0392312d6a8f6e9133f84d4820de06a6c741fa587831b233701ec9dc5",
+      "bodyTextPrefix": "SOL MERCURIO VENUS TIERRA MARTE JÚPITER SATURNO URANO NEPTUNO Ec",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
